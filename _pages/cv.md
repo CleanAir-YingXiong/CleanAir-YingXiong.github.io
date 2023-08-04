@@ -39,15 +39,8 @@ Skills
   * 3-Dimensional chemistry-climate model: NCAR CESM CAM6-Chem
   * 3-D Chemical transport model: GEOS-Chem
   * Transport model: HYSPLIT & STILT & TrajStat
-* Receptor model for source apportionment:
-  * PMF
-  * CMB
-  * PCA
-* Chemical instrument:
-  * GC-FID
-  * GC-MS
-  * IC
-  * OC/EC analyzer
+* Receptor modeling for source apportionment: PMF, CMB, PCA
+* Chemical instrumentation: GC-FID, GC-MS, IC, OC/EC analyzer
 * Operation System: Windows, Linux 
 
 Publications
@@ -70,16 +63,18 @@ Teaching
   
 Supervision
 ======
-Wayne State University
+* Wayne State University
   *	Debatosh Banik Partha, Ph.D. candidate in Civil and Environmental Engineering 
   *	Halima Salah, Ph.D. candidate in Civil and Environmental Engineering 
   *	Noribeth Mariscal, Ph.D. candidate in Civil and Environmental Engineering
   *	Like Wang, Ph.D. student in Civil and Environmental Engineering
-University of Calgary
+    
+* University of Calgary
   *	Minxing Si, Ph.D. candidate in Mechanical and Manufacturing Engineering
   *	Ruoqi Deng, Ph.D. candidate in Mechanical and Manufacturing Engineering
   *	Zhangkang Li, Ph.D. candidate in Mechanical and Manufacturing Engineering
-Wuhan University of Technology
+    
+* Wuhan University of Technology
   *	Baba Imoro Musah, Master candidate in Environmental Science and Engineering
   *	Chang Yuan, Master candidate in Environmental Science and Engineering
   *	Xuan Shao, Master candidate in Environmental Science and Engineering
@@ -88,24 +83,24 @@ Wuhan University of Technology
     
 Awards and scholarships
 ======
-  “Atmospheric Chemical Mechanisms Conference Travel Award”, University of California, Davis ($500)	2022
-  “College of Engineering Travel Award”, Wayne State University ($500)	2022
-  “Postdoctoral Research Award”, Wayne State University ($250)	2022, 2023
-  “Postdoctoral Travel Award”, Wayne State University ($500)	2021
-  “Department Publication Award”, University of Calgary ($750)	2021
-  “Engineering Faculty Award”, University of Calgary ($250)	2021
-  “Professional Development Award”, University of Calgary ($500)	2020
-  “Best Presentation Award”, University of Calgary ($250)	2020
-  “Graduate Student Travel Award”, University of Calgary ($750)	2019
-  “Dean’s Entrance Award”, University of Calgary ($6,000)	 2017
-  "China Scholarship Council (CSC) Doctoral Scholarship", CSC ($105,600) 2017
-  “Distinguished Dissertation Award”, Wuhan University of Technology ($600)	2017
-  “Excellent Graduate Student Award”, Wuhan University of Technology ($400)	2017
-  “Chongqing Sage Foundation Scholarship”, Wuhan University of Technology ($200)	2016
-  “2nd Presentation Award” at Annual Conference of Hubei Chemistry and Chemical Engineering Society ($100)	2015
-  “Outstanding Leadership Award”, Wuhan University of Technology ($300)	2015 - 2016
-  “Excellent Undergraduate Award”, Wuhan University of Technology ($200)	2014
-  “First-Class Professional Scholarship”, Wuhan University of Technology ($5,000)	2011 - 2016
+ * Atmospheric Chemical Mechanisms Conference Travel Award, University of California, Davis ($500)	2022
+ * College of Engineering Travel Award, Wayne State University ($500)	2022
+ * Postdoctoral Research Award, Wayne State University ($250)	2022, 2023
+ * Postdoctoral Travel Award, Wayne State University ($500)	2021
+ * Department Publication Award, University of Calgary ($750)	2021
+ * Engineering Faculty Award, University of Calgary ($250)	2021
+ * Professional Development Award, University of Calgary ($500)	2020
+ * Best Presentation Award, University of Calgary ($250)	2020
+ * Graduate Student Travel Award, University of Calgary ($750)	2019
+ * Dean’s Entrance Award, University of Calgary ($6,000)	 2017
+ * China Scholarship Council (CSC) Doctoral Scholarship, CSC ($105,600) 2017
+ * Distinguished Dissertation Award, Wuhan University of Technology ($600)	2017
+ * Excellent Graduate Student Award, Wuhan University of Technology ($400)	2017
+ * Chongqing Sage Foundation Scholarship, Wuhan University of Technology ($200)	2016
+ * Second-place Presentation Award, Annual Conference of Hubei Chemistry and Chemical Engineering Society ($100)	2015
+ * Outstanding Leadership Award, Wuhan University of Technology ($300)	2015 - 2016
+ * Excellent Undergraduate Award, Wuhan University of Technology ($200)	2014
+ * First-Class Professional Scholarship, Wuhan University of Technology ($5,000)	2011 - 2016
 
 Service and leadership
 ======
@@ -120,6 +115,6 @@ Service and leadership
   *	The Extractive Industries and Society
 
  * Membership 
-  *	America Geophysical Union (AGU)	2020 - present
-  *	Air and Waste Management Association (A&WMA) 2019 
-  *	Chair of CPANS - University of Calgary Student Chapter (CPANS is a subsection of A&WMA)	2019
+  *	America Geophysical Union (AGU), 2020 - present
+  *	Air and Waste Management Association (A&WMA), 2019 
+  *	Chair of CPANS - University of Calgary Student Chapter (CPANS is a subsection of A&WMA),	2019
