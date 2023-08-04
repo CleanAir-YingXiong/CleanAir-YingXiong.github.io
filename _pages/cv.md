@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: "<div align='center'>[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)</div>"
+#title: "<div align='center'>[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)</div>"
+title: "[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)"
 permalink: /cv/
 author_profile: true
 redirect_from:
