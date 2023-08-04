@@ -11,21 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Environmental Engineering, University of Calgary, Canada, 2021
+* M.S. in Environmental Science and Engineering, Wuhan University of Technology, China, 2017
+* B.S. in Environmental Science, Wuhan University of Technology, China, 2014
 
-Work experience
+Research Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Fellow: 2023.07 - present
+  * University of Michigan, Ann Arbor, US
+  * Department of Climate and Space Sciences and Engineering
+  * Supervisor: Dr. Eric A. Kort
+  * 
+* Postdoctoral Fellow: 2021.09 - 2023.06
+  * Wayne State University, Detroit, US
+  * Office of Vice President Research (OVPR) Postdoctoral Fellowship
+  * Supervisor: Dr. Yapxian Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Graduate Research Assistant: 2017.10 - 2021.04 
+  * University of Calgary
+  * China Scholarship Council (CSC) Doctroal Scholarship
+  * Supervisor: Dr. Ke Du
   
 Skills
 ======
