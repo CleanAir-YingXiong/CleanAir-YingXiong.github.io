@@ -63,6 +63,13 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
 
+# Alternatively, the navbar, footer, and page background can be set to an image
+# instead of colour
+
+#navbar-img: "/images/img/bgimage.png"
+#footer-img: "/images/img/bgimage.png"
+#page-img: "/images/img/bgimage.png"
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
