@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<div align='center'>Dr. Ying Xiong's CV</div>"
+title: "<div align='center'>[Download CV](https://cleanair-yingxiong.github.io/files/Ying Xiong_CV_Aug 2023.pdf)</div>"
 permalink: /cv/
 author_profile: true
 redirect_from:
