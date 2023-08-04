@@ -25,12 +25,12 @@ Research Appointments
 * OVPR Postdoctoral Fellowship: 2021.09 - 2023.06
   * Department of Civil and Environmental Engineering
   * Wayne State University, Detroit, US
-  * Supervisor: Dr. Yaoxian Huang
+  * Supervisor: Dr. Yaoxian Huang (https://www.huanglabwayne.com/)
 
 * Graduate Research Assistant: 2017.10 - 2021.04 
   * Department of Mechanical and Manufacturing Engneering
   * University of Calgary, Calgary, Canada
-  * Supervisor: Dr. Ke Du
+  * Supervisor: Dr. Ke Du (https://live-ucalgary.ucalgary.ca/urban-air-pollution/research)
   
 Skills
 ======
