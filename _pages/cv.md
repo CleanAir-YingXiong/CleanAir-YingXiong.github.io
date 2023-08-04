@@ -20,17 +20,17 @@ Research Appointments
 * Research Fellow: 2023.07 - present
   * Department of Climate and Space Sciences and Engineering
   * University of Michigan, Ann Arbor, US
-  * Supervisor: Dr. Eric A. Kort (https://kort.engin.umich.edu/)
+  * Supervisor: Dr. [Eric A. Kort] (https://kort.engin.umich.edu/)
     
 * OVPR Postdoctoral Fellowship: 2021.09 - 2023.06
   * Department of Civil and Environmental Engineering
   * Wayne State University, Detroit, US
-  * Supervisor: Dr. Yaoxian Huang (https://www.huanglabwayne.com/)
+  * Supervisor: Dr. [Yaoxian Huang] (https://www.huanglabwayne.com/)
 
 * Graduate Research Assistant: 2017.10 - 2021.04 
   * Department of Mechanical and Manufacturing Engneering
   * University of Calgary, Calgary, Canada
-  * Supervisor: Dr. Ke Du (https://live-ucalgary.ucalgary.ca/urban-air-pollution/research)
+  * Supervisor: Dr. [Ke Du] (https://live-ucalgary.ucalgary.ca/urban-air-pollution/research)
   
 Skills
 ======
