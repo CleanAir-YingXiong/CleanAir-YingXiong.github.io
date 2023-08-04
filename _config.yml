@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home for Clean Air Research Group"
+title                    : "Clean Air Research Group"
 title_separator          : "-"
 name                     : &name "Ying Xiong"
 description              : &description "Research Fellow at University of Michigan"
@@ -82,11 +82,8 @@ analytics:
 author:
   name             : "Ying Xiong"
   avatar           : "/images/profile.png"
-# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-  round-avatar     : true
-  bio              : >
-    Research Fellow at University of Michigan, interested in *aerosol* and *greenhouse gases emissions*
-    and their impacts on **climate change and human health**.
+  round-avatar     : true 
+  bio              : "Research Fellow at University of Michigan, interested in *aerosol* and *greenhouse gases emissions* and their impacts on **climate change and human health**."
   location         : "Ann Arbor, MI, US"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ngkvdrAAAAAJ&hl=en"
