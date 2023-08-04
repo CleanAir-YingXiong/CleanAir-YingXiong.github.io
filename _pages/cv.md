@@ -1,13 +1,12 @@
 ---
 layout: archive
-#title: "<div align='center'>[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)</div>"
-title: "[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)"
+title: "<div align='center'>Dr. Ying Xiong's CV</div>"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+[Download CV](https://cleanair-yingxiong.github.io/files/YingXiong_CV_Aug2023.pdf)
 {% include base_path %}
 
 Education
