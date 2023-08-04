@@ -82,6 +82,8 @@ analytics:
 author:
   name             : "Ying Xiong"
   avatar           : "profile.png"
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+  round-avatar     : true
   bio              : >
     Research Fellow at University of Michigan, interested in *aerosol* and *greenhouse gases emissions*
     and their impacts on **climate change and human health**.
