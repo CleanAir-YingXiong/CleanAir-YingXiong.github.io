@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ying Xiong"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
   round-avatar     : true
   bio              : >
