@@ -167,6 +167,9 @@ kramdown:
 
 # Collections
 collections:
+  research interests:
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -201,6 +204,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _interests
+  - scope:
+      path: ""
+      type: interests
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _teaching
   - scope:
       path: ""
