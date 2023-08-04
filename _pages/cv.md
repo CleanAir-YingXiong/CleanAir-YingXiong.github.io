@@ -18,18 +18,18 @@ Education
 Research Appointments
 ======
 * Research Fellow: 2023.07 - present
-  * University of Michigan, Ann Arbor, US
   * Department of Climate and Space Sciences and Engineering
-  * Supervisor: Dr. Eric A. Kort
+  * University of Michigan, Ann Arbor, US
+  * Supervisor: Dr. [Eric A. Kort] (https://kort.engin.umich.edu/)
     
-* Postdoctoral Fellow: 2021.09 - 2023.06
+* OVPR Postdoctoral Fellowship: 2021.09 - 2023.06
+  * Department of Civil and Environmental Engineering
   * Wayne State University, Detroit, US
-  * Office of Vice President Research (OVPR) Postdoctoral Fellowship
-  * Supervisor: Dr. Yapxian Huang
+  * Supervisor: Dr. Yaoxian Huang
 
 * Graduate Research Assistant: 2017.10 - 2021.04 
-  * University of Calgary
-  * China Scholarship Council (CSC) Doctroal Scholarship
+  * Department of Mechanical and Manufacturing Engneering
+  * University of Calgary, Calgary, Canada
   * Supervisor: Dr. Ke Du
   
 Skills
@@ -83,24 +83,24 @@ Supervision
     
 Awards and scholarships
 ======
- * Atmospheric Chemical Mechanisms Conference Travel Award, University of California, Davis ($500)	2022
- * College of Engineering Travel Award, Wayne State University ($500)	2022
- * Postdoctoral Research Award, Wayne State University ($250)	2022, 2023
- * Postdoctoral Travel Award, Wayne State University ($500)	2021
- * Department Publication Award, University of Calgary ($750)	2021
- * Engineering Faculty Award, University of Calgary ($250)	2021
- * Professional Development Award, University of Calgary ($500)	2020
- * Best Presentation Award, University of Calgary ($250)	2020
- * Graduate Student Travel Award, University of Calgary ($750)	2019
- * Dean’s Entrance Award, University of Calgary ($6,000)	 2017
- * China Scholarship Council (CSC) Doctoral Scholarship, CSC ($105,600) 2017
- * Distinguished Dissertation Award, Wuhan University of Technology ($600)	2017
- * Excellent Graduate Student Award, Wuhan University of Technology ($400)	2017
- * Chongqing Sage Foundation Scholarship, Wuhan University of Technology ($200)	2016
- * Second-place Presentation Award, Annual Conference of Hubei Chemistry and Chemical Engineering Society ($100)	2015
- * Outstanding Leadership Award, Wuhan University of Technology ($300)	2015 - 2016
- * Excellent Undergraduate Award, Wuhan University of Technology ($200)	2014
- * First-Class Professional Scholarship, Wuhan University of Technology ($5,000)	2011 - 2016
+ * Atmospheric Chemical Mechanisms Conference Travel Award, University of California, Davis ($500),	2022
+ * College of Engineering Travel Award, Wayne State University ($500),	2022
+ * Postdoctoral Research Award, Wayne State University ($250),	2022 - 2023
+ * Postdoctoral Travel Award, Wayne State University ($500),	2021
+ * Department Publication Award, University of Calgary ($750),	2021
+ * Engineering Faculty Award, University of Calgary ($250),	2021
+ * Professional Development Award, University of Calgary ($500),	2020
+ * Best Presentation Award, University of Calgary ($250),	2020
+ * Graduate Student Travel Award, University of Calgary ($750),	2019
+ * Dean’s Entrance Award, University of Calgary ($6,000),	 2017
+ * China Scholarship Council (CSC) Doctoral Scholarship, CSC ($105,600), 2017
+ * Distinguished Dissertation Award, Wuhan University of Technology ($600),	2017
+ * Excellent Graduate Student Award, Wuhan University of Technology ($400),	2017
+ * Chongqing Sage Foundation Scholarship, Wuhan University of Technology ($200),	2016
+ * Second-place Presentation Award, Annual Conference of Hubei Chemistry and Chemical Engineering Society ($100),	2015
+ * Outstanding Leadership Award, Wuhan University of Technology ($300),	2015 - 2016
+ * Excellent Undergraduate Award, Wuhan University of Technology ($200),	2014
+ * First-Class Professional Scholarship, Wuhan University of Technology ($5,000),	2011 - 2016
 
 Service and leadership
 ======
@@ -114,7 +114,7 @@ Service and leadership
   *	Atmosphere
   *	The Extractive Industries and Society
 
- * Membership 
+* Membership 
   *	America Geophysical Union (AGU), 2020 - present
   *	Air and Waste Management Association (A&WMA), 2019 
   *	Chair of CPANS - University of Calgary Student Chapter (CPANS is a subsection of A&WMA),	2019
