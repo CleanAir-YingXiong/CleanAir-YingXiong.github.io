@@ -7,19 +7,19 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ying Xiong / Home for Clean Air Research Group"
+title                    : "Ying Xiong / "
 title_separator          : "-"
 name                     : &name "Ying Xiong"
 description              : &description "personal description"
-url                      : https://yingxiong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "CleanAir-YingXiong/yingxiong.github.io"
-teaser                   : "Ying.jfif" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+repository               : "academicpages/academicpages.github.io"
+teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : true    #change to true to add link to talkmap on talks page
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
