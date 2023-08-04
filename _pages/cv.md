@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Dr. Ying Xiong's CV"
+title: "<div align='center'>Dr. Ying Xiong's CV</div>"
 permalink: /cv/
 author_profile: true
 redirect_from:
