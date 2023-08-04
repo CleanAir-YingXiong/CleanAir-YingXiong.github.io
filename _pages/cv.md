@@ -21,7 +21,7 @@ Research Appointments
   * University of Michigan, Ann Arbor, US
   * Department of Climate and Space Sciences and Engineering
   * Supervisor: Dr. Eric A. Kort
-  * 
+    
 * Postdoctoral Fellow: 2021.09 - 2023.06
   * Wayne State University, Detroit, US
   * Office of Vice President Research (OVPR) Postdoctoral Fellowship
