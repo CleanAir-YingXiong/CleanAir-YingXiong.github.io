@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Dr. Ying Xiong's Clean Air Research Group!
+Dr. Ying Xiong works on a variety of topics related to atmospheric chemistry, air pollution, climate change, chemical transport model, global health, and environmental justice. Broadly, his research focuses on understanding the spatiotemporal variability in the emission magnitude of aerosol and greenhouse gases at locale, regional, and global scales. An underlying theme of his work is assessing the impacts of variations in anthropogenic and natural sources on the carbon cycle and, ultimately, elucidating the interactions between atmospheric chemistry, climate change, and human health.
 
 A data-driven personal website
 ======
